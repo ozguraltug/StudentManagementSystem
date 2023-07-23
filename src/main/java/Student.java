@@ -61,10 +61,10 @@ public class Student {
     @Override
     public String toString() {
         return
-                "id=" + id +
-                ", ad='" + name +
-                ", soyad='" + lastname +
-                ", şehir='" + city +
-                ", yaş=" + age ;
+                "id : " + id +
+                ", Ad : " + name +
+                ", Soyad : " + lastname +
+                ", Şehir : " + city +
+                ", Yaş : " + age ;
     }
 }
